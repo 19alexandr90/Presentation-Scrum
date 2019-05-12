@@ -1,0 +1,14 @@
+.reveal .slides section .attention {
+  color: rgb(240, 180, 17);
+}
+
+.reveal .slides section .partsScrum {
+  color: rgba(247, 21, 21, 0.829);
+}
+
+#main-feat {
+  font-weight: 800;
+  text-transform: uppercase;
+  color: rgb(255, 38, 0);
+  text-shadow: 2px 2px 8px rgb(32, 91, 255);
+}
